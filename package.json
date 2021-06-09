@@ -1,0 +1,22 @@
+{
+  "name": "spider_baidu_img",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "md5-node": "^1.0.1",
+    "moment": "^2.29.1",
+    "puppeteer": "^8.0.0",
+    "urlencode": "^1.1.0"
+  },
+  "devDependencies": {
+    "request": "^2.88.2"
+  }
+}
